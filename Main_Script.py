@@ -13,10 +13,10 @@ import ctypes
 import sys
 
 # ------------------ CONFIG ------------------ #
-MONGO_URI = "mongodb+srv://knpranay2806:Pranay2806@jarvis.sm2rte0.mongodb.net/"
+MONGO_URI = "Your_MongoDB_URI_Here"
 DB_NAME = "sera"
 COLLECTION_NAME = "knowledge"
-SERP_API_KEY = "a0b5b44349fdef7b6bba60adcb5de44fa99607d1d3a15d905f1cf470ff54f265"
+SERP_API_KEY = "Your_SERP_API_KEY_here"
 
 # ------------------ TEXT TO SPEECH ------------------ #
 class Speaker:
